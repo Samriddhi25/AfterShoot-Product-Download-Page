@@ -1,0 +1,211 @@
+.container {
+    width: 100%;
+    background-color: #212529;
+    overflow-y: hidden;
+}
+
+.nav {
+    display: flex;
+    background-color: transparent;
+}
+
+.navigation {
+    display: flex;
+}
+
+.left {
+    width: 70%;
+    margin-left: 4%;
+    margin-top: 1%;
+    display: flex;
+    color: white;
+}
+
+.right{
+    width: 30%;
+    margin-top: 2%;
+}
+
+.right a{
+    margin-right: 10%;
+    color: white;
+}
+
+.image{
+    width: 4rem;
+    height: 4rem;
+}
+
+.footer{
+    width: 100%;
+    height: 10%;
+}
+
+.social{
+    display: flex;
+    margin-left: 39%;
+    margin-bottom: 2%;
+}
+
+.social a{
+    margin-right: 10%;
+    color: white;
+}
+
+.terms {
+    margin-top: 2%;
+    text-align: center;
+    color: grey;
+    margin-bottom: 2%;
+}
+
+.contact {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    text-align: center;
+    color: beige;
+}
+
+.contact text{
+    margin-left: 10%;
+}
+
+.imagess {
+    width: 1422px;
+    height: 864px;
+    background-image: url('../../public/assets/desktop-view.png');
+    background-repeat: no-repeat;
+}
+
+.leftside {
+    padding: 10%;
+    margin-right: 40%;
+    color: white;
+}
+
+.leftside p {
+    margin-bottom: 10%;
+}
+
+.leftside button {
+    width: 180px;
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+    border-color: white;
+    background-color: transparent;
+}
+
+.tophead {
+    width: 1422px;
+    height: 704px;
+}
+
+.websitecount {
+    margin-top: 129px;
+    margin-left: 120px;
+}
+
+.websitecount {
+    color: white;
+    display: flex;
+    text-align: center;
+    margin-bottom: 6%;
+}
+
+.data {
+    margin-left: 15%;
+}
+
+.video {
+    margin-left: 126px;
+    display: flex;
+}
+
+.mediavideo {
+    margin-right: 10%;
+}
+
+.textvideo {
+    color: white;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.content {
+    text-align: center;
+    color: white;
+}
+
+.featimage {
+    margin: 1rem;
+    width: 50rem;
+    margin-left: 18%;
+    margin-bottom: 3%;
+}
+
+.content span {
+    color: #49a4b5;
+}
+
+.section3 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+}
+
+.featimage {
+    width: 50rem;
+    margin-bottom: 3%;
+}
+
+.texts {
+    padding: 10%;
+    color: white;
+    width: 40%;
+}
+
+.texts p {
+    margin-bottom: 10%;
+}
+
+.texts button {
+    width: 180px;
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+    border-color: white;
+    background-color: transparent;
+}
+
+.testimonials  {
+    height: 304px;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.eachimage p{
+    text-align: center;
+    color: white;
+    width: 300px;
+    opacity: 0.9;
+
+}
+.myeachimage {
+    width: auto !important;
+    height: 180px !important;
+    border-radius: 90%;
+    opacity: 0.6;
+}
+
+.myeachimagee {
+    width: auto !important;
+    height: 250px !important;
+    border-radius: 90%;
+}
+
